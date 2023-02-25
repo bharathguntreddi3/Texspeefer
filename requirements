@@ -1,0 +1,5 @@
+streamlit
+os
+PIL
+gtts
+pyttsx3
